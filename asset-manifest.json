@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/layline-front/static/css/main.4e551817.chunk.css",
+    "main.js": "/layline-front/static/js/main.684d6528.chunk.js",
+    "main.js.map": "/layline-front/static/js/main.684d6528.chunk.js.map",
+    "runtime-main.js": "/layline-front/static/js/runtime-main.e0e27964.js",
+    "runtime-main.js.map": "/layline-front/static/js/runtime-main.e0e27964.js.map",
+    "static/js/2.d8e928f0.chunk.js": "/layline-front/static/js/2.d8e928f0.chunk.js",
+    "static/js/2.d8e928f0.chunk.js.map": "/layline-front/static/js/2.d8e928f0.chunk.js.map",
+    "index.html": "/layline-front/index.html",
+    "precache-manifest.a8874dd00b88d01f14d364560cfb3312.js": "/layline-front/precache-manifest.a8874dd00b88d01f14d364560cfb3312.js",
+    "service-worker.js": "/layline-front/service-worker.js",
+    "static/css/main.4e551817.chunk.css.map": "/layline-front/static/css/main.4e551817.chunk.css.map",
+    "static/js/2.d8e928f0.chunk.js.LICENSE.txt": "/layline-front/static/js/2.d8e928f0.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/layline-front/static/media/Montserrat-SemiBold.c641dbee.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0e27964.js",
+    "static/js/2.d8e928f0.chunk.js",
+    "static/css/main.4e551817.chunk.css",
+    "static/js/main.684d6528.chunk.js"
+  ]
+}
